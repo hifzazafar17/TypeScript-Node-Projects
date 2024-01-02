@@ -1,8 +1,5 @@
 # TypeScript-Node-Projects
 
-
-Absolutely, here's a revised version for your GitHub project repository description:
-
 🚀 Welcome to My TypeScript Projects Repository! 🚀
 
 Hey there! 👋 I'm Hifza Zafar, a proud student at PIAIC (Presidential Initiative for Artificial Intelligence and Computing), Karachi, Batch 51, Quarter-1. Excitingly, I've completed all the projects in the "learn-typescript NODE_PROJECTS" course, making me the first student in our class to achieve this milestone. Alhamdulillah!
