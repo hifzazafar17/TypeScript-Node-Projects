@@ -1,0 +1,27 @@
+{
+  "name": "ts_project07_adventure_game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/ascii-art": "^1.4.3",
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.10.6",
+    "@types/readline-sync": "^1.4.8",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "ascii-art": "^2.8.5",
+    "chalk": "^4.1.2",
+    "inquirer": "^9.2.12",
+    "readline-sync": "^1.4.10",
+    "terminal-image": "^2.0.0"
+  }
+}
